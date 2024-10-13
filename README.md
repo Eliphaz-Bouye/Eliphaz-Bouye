@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  A passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
+GNU/Linux fan 🦬🐧
